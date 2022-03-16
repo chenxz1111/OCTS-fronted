@@ -1,0 +1,12 @@
+@font-face {  
+    font-family: 'zhangcao';  
+    src: url('章草.ttf');
+    font-weight: bold;  
+    font-style: normal;  
+}
+@font-face {  
+    font-family: 'jianqi';  
+    src: url('简启体.TTF');
+    font-weight: normal;  
+    font-style: normal;  
+}

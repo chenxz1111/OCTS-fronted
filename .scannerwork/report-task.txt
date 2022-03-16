@@ -1,0 +1,6 @@
+projectKey=JustDebugIt:OCTS-frontend
+serverUrl=https://sonarqube.secoder.net
+serverVersion=8.4.2.36762
+dashboardUrl=https://sonarqube.secoder.net/dashboard?id=JustDebugIt%3AOCTS-frontend
+ceTaskId=AXhUJ7zXww1FeTyTmhSf
+ceTaskUrl=https://sonarqube.secoder.net/api/ce/task?id=AXhUJ7zXww1FeTyTmhSf
